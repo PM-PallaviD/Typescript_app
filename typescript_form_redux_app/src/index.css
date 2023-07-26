@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: auto;
+}
+.loginBtn{
+  margin-top: 20px;
+  flex-grow: 1px;
+}
+.header{
+  text-align: center;
+  background: #212121;
+  color: #fff;
+}
+.card{
+  margin-top: 10px;
+}

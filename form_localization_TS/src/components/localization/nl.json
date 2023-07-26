@@ -1,0 +1,9 @@
+{
+  "form": {
+    "title": "Registratieformulier",
+    "name": "Naam",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "submit": "Indienen"
+  }
+}

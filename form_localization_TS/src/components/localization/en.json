@@ -1,0 +1,10 @@
+{
+    "form": {
+      "title": "Registration Form",
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Submit"
+    }
+  }
+  
